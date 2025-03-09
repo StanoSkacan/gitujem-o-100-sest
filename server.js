@@ -1,1 +1,1 @@
-console.log('servering fish, werq');
+console.log('servering fish');
