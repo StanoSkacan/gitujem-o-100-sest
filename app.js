@@ -1,6 +1,8 @@
 function app() {
   if (loggedIn()) {
-    return 'Welcome to the app!';
+    // redirect to home page;
+  } else {
+    // redirect to login page
   }
 }
 
